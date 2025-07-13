@@ -36,7 +36,7 @@ This module offers a foundational overview of the Windows Operating System and i
 ## 📁 Commands & Tools Used
 - `lusrmgr.msc` → Open Local Users and Groups
 - `%windir%` → Environment variable for Windows directory
-- Right-click context menus for permissions, personalization, taskbar settings
+- Right-click context menus for permissions, personalization, taskbar settings.
 
 ---
 

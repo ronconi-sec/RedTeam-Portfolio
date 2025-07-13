@@ -14,7 +14,7 @@ A simple machine that introduces file transfer services and emphasizes basic cre
 ## 🛠 Tools & Techniques
 - `nmap` to identify SMB/FTP ports
 - SMB enumeration with `smbclient` or `enum4linux`
-- Basic credential testing
+- Basic credential testing.
 
 ---
 

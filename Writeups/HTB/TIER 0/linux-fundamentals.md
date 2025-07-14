@@ -78,8 +78,6 @@ systemctl status ssh
 sudo apt install openssh-server -y
 ```
 
----
-
 ## 💬 Notes
 
 Linux is the backbone of nearly all server infrastructure and cybersecurity toolkits. Learning it deeply is not optional—it’s mandatory for any serious security practitioner. This module is especially useful because it goes beyond just commands and dives into **conceptual understanding**, real-world analogies, and **practical examples** that show how attackers and defenders both interact with Linux systems.

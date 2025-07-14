@@ -18,7 +18,7 @@ A simple machine that introduces file transfer services and emphasizes basic cre
 
 ---
 
-## 🧠 Exploitation Steps (No spoilers)
+## 🧠 Exploitation Steps
 - Enumerated an open SMB share
 - Accessed shared files without credentials
 - Discovered flag stored in an accessible folder

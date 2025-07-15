@@ -8,7 +8,7 @@
 
 ## ✅ Overview
 
-This room introduces the fundamentals of **defensive security**, which focuses on:
+This room introduces the fundamentals of **defensive security**, which focuses on :
 
 - Preventing intrusions
 - Detecting and responding to attacks when they occur

@@ -6,7 +6,7 @@
 
 ---
 
-## 🔍 Summary
+## 🔍 Summary 
 A beginner-level box showcasing exploitation of Redis misconfiguration through open access and basic data interaction.
 
 ---

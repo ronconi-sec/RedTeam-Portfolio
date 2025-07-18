@@ -11,7 +11,7 @@ A collection of **writeups, scripts, and notes** from my journey into cybersecur
 - 🧠 **TryHackMe**: [ronconi.sec](https://tryhackme.com/p/ronconi.sec) – Labs & learning paths  
 - 💣 **Hack The Box**: Real-world pentest machines 
 - 🛠️ **Scripts**: Bash & Python tools for enumeration & automation *(coming soon)*  
-- 📝 **Notes**: Privilege escalation, web exploits, AD attacks, etc.  
+- 📝 **Notes**: Privilege escalation, web exploits, AD attacks, etc...  
 
 ---
 

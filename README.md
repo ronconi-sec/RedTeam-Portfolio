@@ -1,31 +1,23 @@
-# 🛡️ Ronconi Security Portfolio  
+# 🛡️ Cybersecurity Portfolio
 
-**🇮🇹 Andrea Ronconi** | Aspiring **Red Team Pentester**  
-🐧 Linux Lover | 📸 Photography & Tech | 🧠 Self-Taught | 🇯🇵 Future Remote Hacker in Japan  
-
----
-
-## 📚 What's Here?  
-A collection of **writeups, scripts, and notes** from my journey into cybersecurity:  
-
-- 🧠 **TryHackMe**: [ronconi.sec](https://tryhackme.com/p/ronconi.sec) – Labs & learning paths  
-- 💣 **Hack The Box**: Real-world pentest machines 
-- 🛠️ **Scripts**: Bash & Python tools for enumeration & automation *(coming soon)*  
-- 📝 **Notes**: Privilege escalation, web exploits, AD attacks, etc...  
+## Andrea Ronconi — Aspiring Red Team Pentester
 
 ---
 
-## 🛣️ My Learning Journey  
-*"I don’t just hack machines — I’m hacking my entire life."*  
+### 📚 What’s Inside
 
-Currently building skills to **work remotely in Red Teaming / Pentesting** without formal studies — proving that **skills & consistency beat degrees**.  
+- 🧠 **Write-ups:** Detailed walkthroughs of Hack The Box & TryHackMe machines  
+- 🛠️ **Scripts & Tools:** Bash and Python scripts for enumeration, automation, and exploitation  
+- 📝 **Notes & Cheatsheets:** Privilege escalation, Active Directory attacks, web vulnerabilities, and more  
 
 ---
 
-## 🌐 Connect With Me  
-- **GitHub:** [ronconi-sec](https://github.com/ronconi-sec)  
-- **TryHackMe:** [ronconi.sec](https://tryhackme.com/p/ronconi.sec)  
-- **ProtonMail:** [andrea.ronconi.dev@proton.me](mailto:andrea.ronconi.dev@proton.me)  
-*(Instagram & Blog coming soon)*  
+### 🎯 Focus Areas
 
-💬 *Feel free to connect or drop me a message!*  
+- Building practical Red Team skills with real-world labs  
+- Automating repetitive pentest tasks with custom scripts  
+- Documenting learning progress clearly and professionally  
+
+---
+
+### 📂 Repository Structure

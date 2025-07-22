@@ -1,7 +1,7 @@
 # 🔴 TryHackMe – Red Team OPSEC
 
 ## ✅ Difficulty
-Easy – Theoretical + Practical (OPSEC principles for Red Team operations)
+Medium – Theoretical + Practical (OPSEC principles for Red Team operations)
 
 ## 🧠 Objective
 Understand and apply the **five steps of the OPSEC process** to Red Team operations, identifying how to protect critical information and avoid detection by the Blue Team.
@@ -58,11 +58,33 @@ An **OPSEC vulnerability** exists when adversaries can collect and correlate inf
 - **Unsecured databases** storing phished credentials (→ 3rd parties can exfiltrate data).  
 - **Social media leaks** (e.g., team members tagging each other at dinner).  
 
+✅ **Questions from the task:**
+- **Using THC-Hydra & Metasploit on the same system?** → **Y** (Yes, OPSEC vuln)  
+- **Posting a cat photo?** → **N**  
+- **Tagging team on social media?** → **Y**  
+- **Posting client list publicly?** → **Y**  
+- **Posting morning coffee photo?** → **N**
 
 ---
 
+## 📝 **5. Risk Assessment**
+
+Risk = Likelihood of detection × Impact on mission
+
+**Examples:**
+- **Same IP for multiple activities + SIEM detection** → High risk.  
+- **Unsecured phishing database (bots scanning random IPs)** → High risk.  
+
+---
+
+## 📝 **6. Countermeasures**
+
+**Goal:** Prevent detection, deceive adversaries, or deny data collection.
 
 ✅ **Examples:**
+- **Use different IPs** for scanning, exploitation, and phishing.  
+- **Harden databases** used for phishing data.  
+- **Camouflage OS/VMs** (rename “kali2021vm” to blend with the client’s naming convention).  
 - **Modify tool signatures** (e.g., change Nmap’s `User-Agent` with `--script-args http.useragent="CUSTOM_AGENT"`).
 
 ---
@@ -76,24 +98,3 @@ An **OPSEC vulnerability** exists when adversaries can collect and correlate inf
 ---
 
 ⭐ **Red Team OPSEC is about staying invisible — if they don’t know you’re there, you’re already winning.**
-- **Use different IPs** for scanning, exploitation, and phishing.  
-- **Harden databases** used for phishing data.  
-- **Camouflage OS/VMs** (rename “kali2021vm” to blend with the client’s naming convention).  
-## 📝 **6. Countermeasures**
-
-**Goal:** Prevent detection, deceive adversaries, or deny data collection.
-**Examples:**
-- **Same IP for multiple activities + SIEM detection** → High risk.  
-- **Unsecured phishing database (bots scanning random IPs)** → High risk.  
-
-✅ **Questions from the task:**
-Risk = Likelihood of detection × Impact on mission
-- **Using THC-Hydra & Metasploit on the same system?** → **Y** (Yes, OPSEC vuln)  
-- **Posting a cat photo?** → **N**  
-- **Tagging team on social media?** → **Y**  
-- **Posting client list publicly?** → **Y**  
-- **Posting morning coffee photo?** → **N**
-
----
-
-## 📝 **5. Risk Assessment**

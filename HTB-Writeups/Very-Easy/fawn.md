@@ -20,9 +20,9 @@ An introductory-level box that demonstrates how to exploit anonymous FTP access 
 
 ## 🧠 Exploitation Steps (No spoilers)
 - Detected anonymous FTP access on port 21
-- Logged in using anonymous credentials
-- Enumerated available directories
-- Found and downloaded the user flag file
+- Logged in using anonymous credentials.
+- Enumerated available directories.
+- Found and downloaded the user flag file.
 
 ---
 

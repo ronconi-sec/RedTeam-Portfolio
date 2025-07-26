@@ -70,9 +70,9 @@ Collects and analyzes data from logs, open-source intel, and network activity to
 ### 🐛 Malware Analysis
 
 Types of malware:
-- **Virus**: Attaches to programs and spreads
-- **Trojan Horse**: Disguises as legit software
-- **Ransomware**: Encrypts user files and demands payment
+- **Virus**: Attaches to programs and spreads.
+- **Trojan Horse**: Disguises as legit software.
+- **Ransomware**: Encrypts user files and demands payment.
 
 Analysis methods:
 - **Static analysis** (code inspection)

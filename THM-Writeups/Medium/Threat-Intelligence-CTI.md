@@ -5,7 +5,7 @@
 ---
 
 ## ✅ Difficulty
-🟠 **Medium** – Theory & Practical (Red Team OPSEC & Threat Intel)
+🟠 **Medium** – Theory & Practical (Red Team OPSEC 🔴 & Threat Intel)
 
 ---
 

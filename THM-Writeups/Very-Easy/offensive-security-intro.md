@@ -1,4 +1,4 @@
-# 🧠 TryHackMe – Offensive Security Intro
+# 🧠 TryHackMe – Offensive Security Intro 🛡️
 
 **Date:** 2025-07-07
 **Platform:** TryHackMe

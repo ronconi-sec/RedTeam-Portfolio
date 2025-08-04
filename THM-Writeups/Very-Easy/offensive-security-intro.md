@@ -13,14 +13,14 @@ Access was granted to a standard user account, simulating a real-world scenario 
 
 ---
 
-## 🔍 Techniques Used
+## 🔍 Techniques Used ->
 - Web content enumeration via dictionary-based brute-force
 - Detection of exposed backend functionality
 - Use of HTTP response codes to identify valid endpoints
 
 ---
 
-## 🛠 Tool Used
+## 🛠 Tool Used ->
 
 **`dirb`** – Directory brute-forcing tool  
 Wordlist: `/usr/share/dirb/wordlists/common.txt`

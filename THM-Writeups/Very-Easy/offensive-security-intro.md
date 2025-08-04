@@ -6,7 +6,7 @@
 
 ---
 
-## ✅ Overview
+## ✅ Overview ->
 This introductory room simulates a vulnerable banking environment and challenges the user to identify exposed functionality through web content enumeration.
 
 Access was granted to a standard user account, simulating a real-world scenario where attackers escalate access by discovering hidden routes not intended for public use.

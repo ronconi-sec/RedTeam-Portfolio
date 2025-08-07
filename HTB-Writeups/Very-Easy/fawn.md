@@ -6,19 +6,19 @@
 
 ---
 
-## 🔍 Summary
+## 🔍 Summary ->
 An introductory-level box that demonstrates how to exploit anonymous FTP access and perform basic file enumeration.
 
 ---
 
-## 🛠 Tools & Techniques
+## 🛠 Tools & Techniques ->
 - `nmap` for port scanning and service detection
 - `ftp` for connecting to the service
 - Linux CLI for basic file navigation and download
 
 ---
 
-## 🧠 Exploitation Steps (No spoilers)
+## 🧠 Exploitation Steps (No spoilers) ->
 - Detected anonymous FTP access on port 21
 - Logged in using anonymous credentials.
 - Enumerated available directories.

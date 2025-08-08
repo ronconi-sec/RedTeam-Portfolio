@@ -18,7 +18,7 @@ An introductory-level box that demonstrates how to exploit anonymous FTP access 
 
 ---
 
-## 🧠 Exploitation Steps (No spoilers) ->
+## 🧠 Exploitation Steps ->
 - Detected anonymous FTP access on port 21
 - Logged in using anonymous credentials.
 - Enumerated available directories.
@@ -26,5 +26,5 @@ An introductory-level box that demonstrates how to exploit anonymous FTP access 
 
 ---
 
-## 💭 Notes
+## 💭 Notes ->
 Fawn helps new users become comfortable with FTP interactions and shows why default anonymous logins can be dangerous if left misconfigured.

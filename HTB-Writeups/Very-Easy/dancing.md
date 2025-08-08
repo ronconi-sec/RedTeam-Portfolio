@@ -25,5 +25,5 @@ A simple machine that introduces file transfer services and emphasizes basic cre
 
 ---
 
-## 💭 Notes
+## 💭 Notes ->
 This machine reinforces enumeration techniques for SMB and common misconfigurations like open shares or guest access.

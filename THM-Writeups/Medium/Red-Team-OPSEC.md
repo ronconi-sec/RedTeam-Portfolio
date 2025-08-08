@@ -3,12 +3,12 @@
 ## ✅ Difficulty
 Medium – Theoretical + Practical (OPSEC principles for Red Team operations 🔴)
 
-## 🧠 Objective
+## 🧠 Objective ->
 Understand and apply the **five steps of the OPSEC process** to Red Team operations, identifying how to protect critical information and avoid detection by the Blue Team.
 
 ---
 
-## 📝 **1. Introduction**
+## 📝 **1. Introduction** ->
 
 **Operations Security (OPSEC)** is the process of denying adversaries (Blue Team or malicious third parties) the ability to gather critical information about Red Team capabilities, intentions, or ongoing operations.  
 As Red Teamers, we may be authorized to test systems, but from the Blue Team's perspective, we are still adversaries trying to bypass their defenses.
@@ -22,7 +22,7 @@ As Red Teamers, we may be authorized to test systems, but from the Blue Team's p
 
 ---
 
-## 📝 **2. Critical Information**
+## 📝 **2. Critical Information** ->
 
 Critical information includes anything that, if obtained by the Blue Team, could hinder our operation:
 
@@ -36,7 +36,7 @@ Critical information includes anything that, if obtained by the Blue Team, could
 
 ---
 
-## 📝 **3. Threat Analysis**
+## 📝 **3. Threat Analysis** ->
 
 Adversaries are any entities with the **intent + capability** to stop our operation:
 
@@ -49,7 +49,7 @@ Adversaries are any entities with the **intent + capability** to stop our operat
 
 ---
 
-## 📝 **4. Vulnerability Analysis**
+## 📝 **4. Vulnerability Analysis** ->
 
 An **OPSEC vulnerability** exists when adversaries can collect and correlate information that affects your mission.
 
@@ -67,7 +67,7 @@ An **OPSEC vulnerability** exists when adversaries can collect and correlate inf
 
 ---
 
-## 📝 **5. Risk Assessment**
+## 📝 **5. Risk Assessment** ->
 
 Risk = Likelihood of detection × Impact on mission
 
@@ -77,7 +77,7 @@ Risk = Likelihood of detection × Impact on mission
 
 ---
 
-## 📝 **6. Countermeasures**
+## 📝 **6. Countermeasures** ->
 
 **Goal:** Prevent detection, deceive adversaries, or deny data collection.
 
@@ -89,7 +89,7 @@ Risk = Likelihood of detection × Impact on mission
 
 ---
 
-## 🎯 **Key Takeaways**
+## 🎯 **Key Takeaways** ->
 
 - OPSEC is not just rules; it’s a **continuous process**.  
 - Apply the **5-step process** before, during, and after every engagement.  
@@ -97,4 +97,4 @@ Risk = Likelihood of detection × Impact on mission
 
 ---
 
-⭐ **Red Team OPSEC is about staying invisible — if they don’t know you’re there, you’re already winning.**
+⭐ **Red Team OPSEC is about staying invisible — if they don’t know you’re there, you’re already winning.** ⭐

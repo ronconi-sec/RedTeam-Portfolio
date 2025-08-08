@@ -26,5 +26,5 @@ A beginner-friendly machine focused on basic network interaction and enumeration
 
 ---
 
-## 💭 Notes
+## 💭 Notes ->
 While extremely simple, this box reinforces fundamentals like TCP services, command-line usage, and recon methodology. Perfect for complete beginners or warming up.

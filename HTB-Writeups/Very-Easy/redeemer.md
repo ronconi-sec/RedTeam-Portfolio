@@ -25,5 +25,5 @@ A beginner-level box showcasing exploitation of Redis misconfiguration through o
 
 ---
 
-## 💭 Notes
+## 💭 Notes ->
 Redeemer is great for understanding how improperly secured services like Redis can be an easy target in real environments.

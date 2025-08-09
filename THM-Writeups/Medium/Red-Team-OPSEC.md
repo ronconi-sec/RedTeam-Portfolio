@@ -3,7 +3,7 @@
 ## ✅ Difficulty
 Medium – Theoretical + Practical (OPSEC principles for Red Team operations 🔴)
 
-## 🧠 Objective ->
+## 🧠 Objective 
 Understand and apply the **five steps of the OPSEC process** to Red Team operations, identifying how to protect critical information and avoid detection by the Blue Team.
 
 ---

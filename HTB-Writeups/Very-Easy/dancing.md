@@ -7,14 +7,14 @@
 ---
 
 ## 🔍 Summary 
-A simple machine that introduces file transfer services and emphasizes basic credentials reuse.
+A simple machine that introduces file transfer services and emphasizes basic credentials reuse
 
 ---
 
 ## 🛠 Tools & Techniques 
 - `nmap` to identify SMB/FTP ports
 - SMB enumeration with `smbclient` or `enum4linux`
-- Basic credential testing.
+- Basic credential testing
 
 ---
 
@@ -26,4 +26,4 @@ A simple machine that introduces file transfer services and emphasizes basic cre
 ---
 
 ## 💭 Notes 
-This machine reinforces enumeration techniques for SMB and common misconfigurations like open shares or guest access.
+This machine reinforces enumeration techniques for SMB and common misconfigurations like open shares or guest access

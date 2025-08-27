@@ -37,7 +37,7 @@ Anything the Blue Team could use against you:
 
 ## 3. Threat Analysis
 
-| Adversary               | Intent                  | Capability |
+| Adversary               | Intent                 | Capability |
 |-------------------------|------------------------|-----------|
 | Blue Team               | Detect us              | SIEM, IDS |
 | Malicious third parties | Exploit our info       | Random bots or targeted attacks |

@@ -3,11 +3,6 @@
 
 ---
 
-> Hands-on portfolio with reproducible write-ups, custom automation scripts, personal Red Team lab, and sample reports.  
-> **Note:** replace placeholders in brackets (`[ ]`) with your real info.
-
----
-
 ## 📊 Quick Stats
 - **Machines solved (HTB / THM):** [X total]  
 - **Write-ups published:** [N write-ups]  

@@ -49,35 +49,6 @@
 
 ---
 
-## 📂 Repository Structure
-
-RedTeam-Portfolio/
-├── projects/
-│ └── redteam-lab/ # Personal Red Team lab (diagrams, notes, attack paths)
-│
-├── tools/ # Custom scripts (Bash/Python)
-│ └── reconx.sh
-│
-├── writeups-redteam/ # HTB & THM write-ups
-│ ├── easy/
-│ │ ├── HTB/
-│ │ │ ├── dancing.md
-│ │ │ ├── fawn.md
-│ │ │ └── ...
-│ │ └── THM/
-│ │
-│ ├── medium/
-│ └── hard/
-│
-├── reports/ # Example pentest report
-│ └── Example-Pentest-Report.pdf
-│
-├── Red-Team-OPSEC.md # Operational Security notes
-├── Threat-Intelligence-CTI.md # Threat Intelligence notes
-└── LICENSE
-
----
-
 ## 🧰 Skills & Tools
 - **Pentesting:** Enumeration, exploitation, privilege escalation, AD attacks  
 - **Scripting:** Bash & Python (automation, exploitation helpers)  

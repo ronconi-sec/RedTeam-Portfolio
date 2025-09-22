@@ -4,9 +4,9 @@
 ---
 
 ## 📊 Quick Stats
-- **Machines solved (HTB / THM):** [X total]  
-- **Write-ups published:** [N write-ups]  
-- **Custom scripts/tools:** [M scripts]  
+- **Machines solved (HTB / THM):** [21 total]  
+- **Write-ups published:** [6 write-ups]  
+- **Custom scripts/tools:** [1 scripts]  
 - **Sample reports (PDF):** 1  
 
 ---

@@ -40,7 +40,7 @@
 
 ### 3) HackTheBox / TryHackMe Write-ups
 - Example: `dancing.md` (HTB, easy) — full exploitation process: recon, exploit, privilege escalation, and mitigation.  
-- [View Write-up: dancing](./writeups-redteam/easy/HTB/dancing.md)
+- [View Write-up: dancing](https://github.com/ronconi-sec/RedTeam-Portfolio/blob/main/writeups-redteam%20/easy/HTB/dancing.md)
 
 ### 4) Sample Pentest Report
 - Professional-style PDF report with an executive summary and technical details.  
